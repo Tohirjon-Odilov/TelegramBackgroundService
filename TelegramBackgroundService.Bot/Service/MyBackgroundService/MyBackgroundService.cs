@@ -2,7 +2,7 @@
 using Telegram.Bot;
 using Telegram.Bot.Polling;
 
-namespace TelegramBackgroundService.Bot.Service
+namespace TelegramBackgroundService.Bot.Service.MyBackgroundService
 {
     public class MyBackgroundService : BackgroundService
     {
